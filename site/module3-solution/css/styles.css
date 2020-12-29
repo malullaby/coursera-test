@@ -1,0 +1,33 @@
+.cont  {
+	width: 100%
+}
+#header-nav {
+	position: relative;
+}
+.navbar-header  {
+	position: relative;
+	left: 0px;
+}
+h1 {
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+.text {
+padding: 5px;
+}
+
+.coco  {
+	background-color: rgba(80, 113, 223, 0.6);
+	margin: 15px, 15px, 15px, 15px;
+	width: 85%;
+
+}
+
+@media (max-width: 767px) {
+.colorit {
+	background-color: rgba(0, 200, 0, 0.3);
+	text-align: center;
+
+}
+}
